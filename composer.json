@@ -1,5 +1,5 @@
 {
-    "name": "webographen/statamic-admin-log",
+    "name": "business-comparison/statamic-admin-log",
     "license": "MIT",
     "type": "statamic-addon",
     "description": "Logs all user actions in the control panel",
